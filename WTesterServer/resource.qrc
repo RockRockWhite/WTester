@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file alias="admin">ui/admin.ico</file>
+        <file alias="student">ui/student.ico</file>
+    </qresource>
+</RCC>

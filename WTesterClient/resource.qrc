@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file alias="new">ui/new.ico</file>
+        <file alias="setting">ui/setting.ico</file>
+        <file alias="student">ui/student.ico</file>
+        <file alias="white">ui/white.ico</file>
+        <file alias="whitea">ui/whitea.ico</file>
+        <file alias="nothing">ui/nothing.png</file>
+    </qresource>
+</RCC>
