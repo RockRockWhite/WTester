@@ -1,11 +1,11 @@
 ﻿#include "widget_add_question.h"
 #include "ui_widget_add_question.h"
 #include <QMessageBox>
-#include<QSql>
-#include<QSqlDatabase>
-#include<QSqlQuery>
-#include<QSqlError>
-#include<QString>
+#include <QSql>
+#include <QSqlDatabase>
+#include <QSqlQuery>
+#include <QSqlError>
+#include <QString>
 #pragma execution_character_set("utf-8")
 extern  QSqlDatabase database;
 

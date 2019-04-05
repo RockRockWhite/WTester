@@ -49,8 +49,4 @@ FORMS += \
     widget_about.ui \
     widget_answer.ui
 
-RESOURCES += \
-    ../resource.qrc \
-    resource.qrc
-
 RC_FILE += WTester.rc
